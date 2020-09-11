@@ -42,7 +42,7 @@
     // Important for radian and latex
     "settings": {
         // Python
-        "python.dataScience.notebookFileRoot": "${workspaceFolder}/code",
+        // "python.dataScience.notebookFileRoot": "${workspaceFolder}/code",
         "python.dataScience.interactiveWindowMode": "perFile",
         "python.dataScience.sendSelectionToInteractiveWindow": true,
         // R
@@ -59,6 +59,8 @@
         // Format code as you type
         "editor.formatOnPaste": true,
         "editor.formatOnType": true,
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "modifications",
         // Use zsh
         "terminal.integrated.shell.linux": "/bin/zsh"
     },
