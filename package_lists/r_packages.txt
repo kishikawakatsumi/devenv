@@ -1,3 +1,4 @@
+conflicted
 cowplot
 data.table
 energy
@@ -9,4 +10,3 @@ knitr
 languageserver
 reshape2
 tidyverse
-conflicted
