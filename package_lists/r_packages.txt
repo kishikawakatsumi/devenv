@@ -7,3 +7,4 @@ knitr
 languageserver
 reshape2
 tidyverse
+ggfortify
