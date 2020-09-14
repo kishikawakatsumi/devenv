@@ -1,5 +1,6 @@
 cowplot
 data.table
+energy
 forecast
 gamlss.dist
 ggfortify
