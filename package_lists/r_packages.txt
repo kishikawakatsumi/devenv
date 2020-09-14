@@ -2,9 +2,9 @@ cowplot
 data.table
 forecast
 gamlss.dist
+ggfortify
 kableExtra
 knitr
 languageserver
 reshape2
 tidyverse
-ggfortify
