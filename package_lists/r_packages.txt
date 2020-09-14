@@ -9,3 +9,4 @@ knitr
 languageserver
 reshape2
 tidyverse
+conflicted
