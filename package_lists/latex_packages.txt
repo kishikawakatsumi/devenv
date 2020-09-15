@@ -63,3 +63,6 @@ xfor
 xkeyval
 xpatch
 xstring
+moderncv
+babel-german
+footmisc
