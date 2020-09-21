@@ -8,5 +8,6 @@ ggfortify
 kableExtra
 knitr
 languageserver
+randomForest
 reshape2
 tidyverse
