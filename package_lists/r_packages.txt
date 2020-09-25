@@ -9,8 +9,8 @@ kableExtra
 knitr
 languageserver
 randomForest
+Rcpp
+RcppArmadillo
+RcppParallel
 reshape2
 tidyverse
-Rcpp
-RcppParallel
-RcppArmadillo
