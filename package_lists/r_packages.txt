@@ -8,10 +8,10 @@ ggfortify
 kableExtra
 knitr
 languageserver
+microbenchmark
 randomForest
 Rcpp
 RcppArmadillo
 RcppParallel
 reshape2
 tidyverse
-microbenchmark
