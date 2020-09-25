@@ -14,3 +14,4 @@ RcppArmadillo
 RcppParallel
 reshape2
 tidyverse
+microbenchmark
