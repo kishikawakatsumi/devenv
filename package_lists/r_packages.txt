@@ -11,3 +11,6 @@ languageserver
 randomForest
 reshape2
 tidyverse
+Rcpp
+RcppParallel
+RcppArmadillo
