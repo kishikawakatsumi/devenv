@@ -9,10 +9,10 @@ kableExtra
 knitr
 languageserver
 microbenchmark
+profvis
 randomForest
 Rcpp
 RcppArmadillo
 RcppParallel
 reshape2
 tidyverse
-profvis
