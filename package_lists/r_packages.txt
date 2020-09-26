@@ -15,3 +15,4 @@ RcppArmadillo
 RcppParallel
 reshape2
 tidyverse
+profvis
